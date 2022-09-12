@@ -18,4 +18,3 @@ Caricando lo sketch nell'ESP8266 si apre una pagina (http://xx.xx.xx.xx/ con xx.
 
 Premendo il pulsante rotondo si simula la pressione del tasto del comando remoto.
 Bisogna ricordarsi di inserire i giusti dati del proprio router wifi.
-L'indirizzo 
