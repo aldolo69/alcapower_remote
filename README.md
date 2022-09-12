@@ -10,8 +10,10 @@ In parallelo ai fili del comando remoto originale ho collegato un ESP8266 in que
 
 ![Screenshot](schematic.jpg)
 
-Caricando lo sketch nell'ESP8266 si apre una pagina come questa:
+Caricando lo sketch nell'ESP8266 si apre una pagina (http://xx.xx.xx.xx/ con xx.xx.xx.xx che dipende dal router wifi) come questa:
 
 ![Screenshot](webapp.jpg)
 
 Premendo il pulsante rotondo si simula la pressione del tasto del comando remoto.
+Bisogna ricordarsi di inserire i giusti dati del proprio router wifi.
+L'indirizzo 
