@@ -10,6 +10,8 @@ In parallelo ai fili del comando remoto originale ho collegato un ESP8266 in que
 
 ![Screenshot](schematic.jpg)
 
+Se non si vuole usare il comando remoto originale è meglio mettere dei pulldown di 100K sui pin 4 e 5 del connettore.
+
 Caricando lo sketch nell'ESP8266 si apre una pagina (http://xx.xx.xx.xx/ con xx.xx.xx.xx che dipende dal router wifi) come questa:
 
 ![Screenshot](webapp.jpg)
